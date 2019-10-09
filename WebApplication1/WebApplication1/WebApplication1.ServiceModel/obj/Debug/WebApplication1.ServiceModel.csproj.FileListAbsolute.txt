@@ -1,0 +1,9 @@
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\WebApplication1.ServiceModel.dll
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\WebApplication1.ServiceModel.pdb
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csprojAssemblyReference.cache
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.csproj.CopyComplete
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.dll
+C:\Users\pulkitjain02\source\repos\WebApplication1\WebApplication1\WebApplication1.ServiceModel\obj\Debug\WebApplication1.ServiceModel.pdb
